@@ -146,5 +146,18 @@
     "blog": "https://blog.naver.com/raho1879",
     "github": "https://github.com/LandmineSoldier",
     "sns": "https://www.facebook.com/profile.php?id=100014634405124"
-  }
+  },
+  {
+    "name": "신중빈",
+    "generation": 5,
+    "profile_image": "",
+    "intro": "안녕하세요오",
+    "club": [
+      "B1ND",
+    ],
+    "website": null,
+    "blog": null,
+    "github": "https://github.com/krung2",
+    "sns": "https://www.instagram.com/joongbin4337/",
+  },
 ]
